@@ -16,7 +16,7 @@ Dependecies:
 - numpy package (for location simulation)
 - pandas package (for dataframe manipulation)
 - PiperVoice from piper (TTS)
-	- The piper voice 'en_US-amy-low.onnx' files are provided as well (credit: https://github.com/rhasspy/piper)
+	- The piper voice 'en_US-amy-low.onnx' file will be needed to synthesise the text into speech. This file can be found [here](https://github.com/rhasspy/piper/blob/master/VOICES.md) (credit: [rhasspy](https://github.com/rhasspy/piper)). The JSON file has been provided.
 - wave (opening wav files)
 - IPython.display (jupyter notebook display)
 - ipywidgets (displaying widgets in jupyter notebook)
